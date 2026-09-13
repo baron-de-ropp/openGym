@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- 📊 **Body fat tracker** (potato preview): log body-fat % on Home and Stats. Methods: manual %, Jackson–Pollock 3-site calipers (sex-specific), or U.S. Navy tape (neck/waist/height; hip for women).
+
+
 What the Discord and GitLab reports after v1.3.5 had in common: the Coach failed and nobody could
 see why. Web bundle and APK; the API image only for the payload change.
 
