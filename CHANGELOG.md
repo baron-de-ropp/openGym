@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- 📊 **Body fat tracker** (potato preview): log body-fat % on Home and Stats. Methods: manual %, Jackson–Pollock 3-site calipers (sex-specific), or U.S. Navy tape (neck/waist/height; hip for women).
+- 📊 **Body fat tracker** (potato preview): log body-fat % on Home and Stats with the same curve/goal pattern as body weight. Pick a method when logging: **manual %**, **Jackson–Pollock 3-site calipers** (sex-specific sites + age), or **U.S. Navy tape** (neck/waist/height; hip too for women). Profile body diagram sex picks the equations; age and height live in Settings and are reused on the log sheet.
 
 
 What the Discord and GitLab reports after v1.3.5 had in common: the Coach failed and nobody could
